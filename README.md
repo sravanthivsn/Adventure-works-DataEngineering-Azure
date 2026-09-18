@@ -1,1 +1,0 @@
-# Adventure-works-DataEngineering-Azure
